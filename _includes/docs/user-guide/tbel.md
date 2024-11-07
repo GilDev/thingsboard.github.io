@@ -1413,7 +1413,7 @@ Converts a byte array with the given offset to a long, length, and optional byte
 
 **Syntax:**
 
-*int parseBytesToInt([byte[] or List<Byte>] data[,int offset, int length, boolean bigEndian])*
+*int parseBytesToLong([byte[] or List<Byte>] data[,int offset, int length, boolean bigEndian])*
 
 **Parameters:**
 
